@@ -1,0 +1,5 @@
+/*整个程序共享的样式*/
+text{
+  color: #ff0;
+  background-color: #f99;
+}
